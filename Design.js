@@ -2,7 +2,7 @@ const NOVASTART=()=>{
 
     DISPLAY('',`
 
-        <h1>ERO INNOOVATIONS</h1>
+        <h1>ERO INNOVATIONS</h1>
         
     `);
 
